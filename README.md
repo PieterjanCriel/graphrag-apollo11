@@ -6,7 +6,7 @@ A project demonstrating both basic RAG and Microsoft GraphRAG implementations us
 
 This project contains two RAG implementations:
 1. **Basic RAG** (`basic-rag/`) - Simple vector-based retrieval using ChromaDB
-2. **GraphRAG** (`apollo11/`) - Microsoft's GraphRAG with knowledge graph extraction
+2. **GraphRAG** (`apollo11/`) - [Microsoft's GraphRAG](https://microsoft.github.io/graphrag/) with knowledge graph extraction
 
 ## Prerequisites
 
