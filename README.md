@@ -224,7 +224,7 @@ uv run graphrag query \
 ### Nova Pro (`us.amazon.nova-pro-v1:0`)
 - **Purpose**: Chat/text generation
 - **Use**: Answering queries, generating summaries
-- **Max tokens**: 12,000
+- **Max tokens**: 10,000
 
 ### Nova Multimodal Embeddings (`amazon.nova-2-multimodal-embeddings-v1:0`)
 - **Purpose**: Text embeddings
